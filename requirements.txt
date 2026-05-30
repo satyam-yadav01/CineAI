@@ -1,0 +1,10 @@
+google-genai
+pandas
+streamlit
+langchain
+langchain-huggingface
+langchain-community
+faiss-cpu
+sentence-transformers
+torchvision
+watchdog
